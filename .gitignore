@@ -40,3 +40,8 @@ plugin-registry/
 
 # 本地临时调试截图
 dev/wechat-shot*.png
+
+# Local math-patch recovery artifacts (never publish backups)
+/installed-web-dist-backup/
+/backslash-math.patch
+/upstream-pr.md
